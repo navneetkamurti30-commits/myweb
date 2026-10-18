@@ -55,9 +55,9 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://54.224.103.140:8081/#browse/browse:maven-releases</url>
+		    <url>http://54.224.103.140:8081/repository/maven-releases/</url>
 		</repository>
-  	</distributionManagement>
+ 	</distributionManagement>
 	
 	<pluginRepositories>
 	    <pluginRepository>    
